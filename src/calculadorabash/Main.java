@@ -28,7 +28,7 @@ public class Main {
        System.out.println("Los valores de la calculadora son "+ Casio1.getNum1() + " y " + Casio1.getNum2());
        
        calculadora Casio2 = new calculadora ( "Casio" , "CTT-40");
-       calculadora Casio3 = new calculadora ( );
+       
        
        System.out.println("La marca y modelo de la calculadora Casio2 son "+ Casio2.getMarca() + " y " + Casio2.getModelo());
        Casio2.setNum1(10);
