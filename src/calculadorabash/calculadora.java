@@ -31,10 +31,7 @@ public class calculadora {
         this.marca=marca;
         this.modelo=modelo;
     }
-    // Constructor sobrecargado
-    public calculadora(){
-        
-    }
+
     
 
 
